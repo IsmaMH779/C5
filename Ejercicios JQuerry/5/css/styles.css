@@ -1,0 +1,12 @@
+.cambiar-color {
+    height: 200px;
+    width: 200px;
+    background-color: #0000ff;
+
+}
+
+p {
+    width: 75%;
+    color: red;
+    margin: 0;
+}
